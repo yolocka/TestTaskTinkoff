@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tinkoff news</string>
+    <string name="title_activity_item_content">News</string>
+</resources>
